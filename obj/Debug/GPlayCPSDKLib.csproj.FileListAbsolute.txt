@@ -1,0 +1,8 @@
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\bin\Debug\GPlayCPSDKLib.dll
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\bin\Debug\GPlayCPSDKLib.pdb
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\bin\Debug\Newtonsoft.Json.dotnet2.0.dll
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\bin\Debug\UnityEngine.dll
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\bin\Debug\UnityEngine.xml
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\obj\Debug\GPlayCPSDKLib.csprojResolveAssemblyReference.cache
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\obj\Debug\GPlayCPSDKLib.dll
+D:\Unity5\GPlaySDKDemo\GPlayCPSDKLib\obj\Debug\GPlayCPSDKLib.pdb

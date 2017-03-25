@@ -1,0 +1,17 @@
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\GPlayCPSDKLib.Editor.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\GPlayCPSDKLib.Editor.pdb
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\UnityEditor.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\UnityEngine.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\Mono.Cecil.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\Unity.SerializationLogic.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\Unity.DataContract.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\ICSharpCode.NRefactory.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\Unity.UNetWeaver.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\Unity.CecilTools.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\Mono.Cecil.Pdb.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\Mono.Cecil.Mdb.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\UnityEditor.xml
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\bin\Release\UnityEngine.xml
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\obj\Release\GPlayCPSDKLib.Editor.csprojResolveAssemblyReference.cache
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\obj\Release\GPlayCPSDKLib.Editor.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib.Editor\obj\Release\GPlayCPSDKLib.Editor.pdb

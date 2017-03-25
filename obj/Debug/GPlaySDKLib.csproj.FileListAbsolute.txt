@@ -1,0 +1,7 @@
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\bin\Debug\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\bin\Debug\GPlayCPSDKLib.pdb
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\bin\Debug\UnityEngine.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\bin\Debug\UnityEngine.xml
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\obj\Debug\GPlaySDKLib.csprojResolveAssemblyReference.cache
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\obj\Debug\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\obj\Debug\GPlayCPSDKLib.pdb

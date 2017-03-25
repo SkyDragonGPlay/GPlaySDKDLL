@@ -1,0 +1,10 @@
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\bin\Release\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\bin\Release\GPlayCPSDKLib.pdb
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\bin\Release\UnityEngine.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\obj\Release\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlaySDKLib\obj\Release\GPlayCPSDKLib.pdb
+D:\SkyDragon\GPlaySDKLib\GPlaySDKLib\bin\Release\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlaySDKLib\GPlaySDKLib\bin\Release\GPlayCPSDKLib.pdb
+D:\SkyDragon\GPlaySDKLib\GPlaySDKLib\bin\Release\UnityEngine.dll
+D:\SkyDragon\GPlaySDKLib\GPlaySDKLib\obj\Release\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlaySDKLib\GPlaySDKLib\obj\Release\GPlayCPSDKLib.pdb

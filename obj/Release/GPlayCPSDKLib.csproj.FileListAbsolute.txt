@@ -1,0 +1,8 @@
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\bin\Release\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\bin\Release\GPlayCPSDKLib.pdb
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\bin\Release\Newtonsoft.Json.dotnet2.0.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\bin\Release\UnityEngine.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\bin\Release\UnityEngine.xml
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\obj\Release\GPlayCPSDKLib.dll
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\obj\Release\GPlayCPSDKLib.pdb
+D:\SkyDragon\GPlayCPSDKLib\GPlayCPSDKLib\obj\Release\GPlayCPSDKLib.csprojResolveAssemblyReference.cache
